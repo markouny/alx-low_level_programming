@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * _strncpy - two words
  * @dest : pointer to char params
@@ -21,7 +23,6 @@ char *_strncpy(char *dest, char *src, int n)
 	}
 	return (dest);
 }
-~
 ~
 ~
 ~
