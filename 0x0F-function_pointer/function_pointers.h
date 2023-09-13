@@ -1,6 +1,10 @@
-#ifndef _FUNCTION_POINTERS_H
-#define _FUNCTION_POINTERS_H
+#ifndef __FUNCTION_POINTERS_H_
+#define __FUNCTION_POINTERS_H_
+
+#include <stdio.h>
+#include <stdlib.h>
 #include <stddef.h>
+
 /* stddef.h header defines various types and macros */
 /* size_t is unsigned integral type and is the result of the sizeof keyword */
 
